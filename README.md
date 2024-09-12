@@ -31,7 +31,7 @@
   - 🌸 My name is Sabrina, I'm 19 years old, currently living in Brazil.
   - ☕ I enjoy reading, whether it's a good book or manga, as well as watching anime, playing games and drawing.
   - 🌱 I'm looking for my first job opportunity.
-  - 💻 My career dream is to a qualified Fullstack Developer.
+  - 💻 My career dream is to become a qualified Fullstack Developer.
 
    **Nice to meet ya!**
 
