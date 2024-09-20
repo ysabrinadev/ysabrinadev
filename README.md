@@ -16,10 +16,8 @@
     <ul>
       <li>🌱 I’m currently learning <b>.NET Development.</b></li>
       <li>💬 I’m looking for help with <b>Java Programming.</b></li>
-      <li>☕ Ask me about <b>SQL Language, C# Language or Programming Logic.</b></li>
-      <li>📜 How to reach me? <b>ysabrina.dev@gmail</b></li>
-      <li>🌸 My Pronouns? <b>she/her</b></li>
-      <li>🎮 Fun fact: I love playing <b>Minecraft!</b></li>
+      <li>☕ Ask me about <b>SQL Language or C# Language.</b></li>
+      <li>📜 How to reach me? <b>ysabrina.santos@gmail</b></li>
     </ul>
   </div>
   
@@ -28,12 +26,9 @@
 <details>
   <summary><b>Read More</b></summary>
   
-  - 🌸 My name is Sabrina, I'm 19 years old, currently living in Brazil.
-  - ☕ I enjoy reading, whether it's a good book or manga, as well as watching anime, playing games and drawing.
-  - 🌱 I'm looking for my first job opportunity.
-  - 💻 My career dream is to become a qualified Fullstack Developer.
-
-   **Nice to meet ya!**
+  - My name is Sabrina, I'm 19 years old, currently living in Brazil.
+  - I'm looking for my first job opportunity.
+  - My career dream is to become a qualified Fullstack Developer.
 
 </details>
 
@@ -72,10 +67,9 @@
 
 ## My Contacts
 <div>  
-  <a href="" target="_blank"><img align="center" alt="sasa-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="" target="_blank"><img align="center" alt="sasa-email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="" target="_blank"><img align="center" alt="sasa-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="" target="_blank"><img align="center" alt="sasa-discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>           
+  <a href="https://www.linkedin.com/in/dev-sabrina-santos/" target="_blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ysabrina.santos@gmail.com" target="_blank"><img align="center" alt="email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/ysabrina.santos/" target="_blank"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>          
 </div><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC1F3FF&height=120&section=footer"/>
